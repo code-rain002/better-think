@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin: 40px 0">
-    <a href="https://github.com/topdev0729/github-profile-views-counter">
+    <a href="https://github.com/better-think/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=rebiss&color=DE002D">
     </a>
 </div>
