@@ -14,7 +14,7 @@
 
 ## Nice to meet you.
 
-I’m enthusiastic about **Web Development**, and trying to learn **Mobile Development**.
+I’m enthusiastic about **Web Development** and **Mobile Development**.
 
 My preferred programming languages & frameworks:
 
