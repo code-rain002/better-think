@@ -18,7 +18,7 @@
 	<tr>
 		<td valign="top" width="50%">
 			<div align="center">
-			<h6> <b> Full Stack </b> </h6>
+				<h6> <b> Full Stack </b> </h6>
 			</div>
 			<div align="center">  
 			<img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -33,7 +33,9 @@
 				<img style="margin: 10px" alt="Flask" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flask/flask.png" />
 				<img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" /> 
 				<img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
-			</div></td><td valign="top" width="50%">
+			</div>
+		</td>
+		<td valign="top" width="50%">
 			<div align="center">
 					<h6><b>DevOps toolchain</b></h6>
 				</div>
@@ -46,6 +48,16 @@
 				<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 				<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 				<img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>
+			</div>
+		</td>
+		<td>
+			<div align="center">
+				<h6><b>BlockChain Tech</b></h6>
+			</div>
+			<div align="center">
+			    <img style="margin: 10px" alt="Bitcoin" height="50" src="https://img.shields.io/badge/Bitcoin?style=flat&logoColor=white" />
+			    <img style="margin: 10px" alt="Solidity" height="50" src="https://img.shields.io/badge/Solidity?style=flat&logoColor=white" />
+			    <img style="margin: 10px" alt="Web3" height="50" src="https://img.shields.io/badge/Web3.js?style=flat&logoColor=white" />
 			</div>
 		</td>
 	</tr>
