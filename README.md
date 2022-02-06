@@ -55,24 +55,8 @@
 				<h6><b>BlockChain Tech</b></h6>
 			</div>
 			<div align="center">
-			    <img style="margin: 10px" alt="Bitcoin" height="50" src="https://img.shields.io/badge/Bitcoin?style=flat&logoColor=white" />
-			    <img style="margin: 10px" alt="Solidity" height="50" src="https://img.shields.io/badge/Solidity?style=flat&logoColor=white" />
-			    <img style="margin: 10px" alt="Web3" height="50" src="https://img.shields.io/badge/Web3.js?style=flat&logoColor=white" />
+			    <img style="margin: 10px" alt="Bitcoin" height="50" src="https://cdn-icons.flaticon.com/png/512/1958/premium/1958792.png?token=exp=1644109596~hmac=d7a774264e99995c4b9292070a240188" />
 			</div>
 		</td>
 	</tr>
-</table> 
-<!--
-**better-think/better-think** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
