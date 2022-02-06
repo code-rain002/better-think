@@ -55,7 +55,13 @@
 				<h6><b>BlockChain Tech</b></h6>
 			</div>
 			<div align="center">
-			    <img style="margin: 10px" alt="Bitcoin" height="50" src="https://cdn-icons.flaticon.com/png/512/1958/premium/1958792.png?token=exp=1644109596~hmac=d7a774264e99995c4b9292070a240188" />
+			    <img style="margin: 10px" alt="Bitcoin Image" height="50" src="./assets/bitcoin.png" />
+			    <img style="margin: 10px" alt="NFT Image" height="50" src="./assets/NFT.jpg" />
+			    <img style="margin: 10px" alt="smart-contract Image" height="50" src="./assets/smart-contract.png" />
+			    <img style="margin: 10px" alt="Solana Image" height="50" src="./assets/solana.png" />
+			    <img style="margin: 10px" alt="ERC Image" height="50" src="./assets/erc.png" />
+			    <img style="margin: 10px" alt="Meta Mask Image" height="50" src="./assets/meta-mask-icon.jpg" />
+			    <img style="margin: 10px" alt="DEX Image" height="50" src="./assets/dex.png" />
 			</div>
 		</td>
 	</tr>
