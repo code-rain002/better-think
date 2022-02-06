@@ -16,7 +16,7 @@
 
 <table>
 	<tr>
-		<td valign="top" width="50%">
+		<td valign="top" width="33%">
 			<div align="center">
 				<h6> <b> Full Stack </b> </h6>
 			</div>
@@ -35,7 +35,7 @@
 				<img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
 			</div>
 		</td>
-		<td valign="top" width="50%">
+		<td valign="top" width="33%">
 			<div align="center">
 					<h6><b>DevOps toolchain</b></h6>
 				</div>
@@ -50,7 +50,7 @@
 				<img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>
 			</div>
 		</td>
-		<td>
+		<td valign="top" width="33%">
 			<div align="center">
 				<h6><b>BlockChain Tech</b></h6>
 			</div>
