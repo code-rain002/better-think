@@ -52,7 +52,7 @@
 		</td>
 		<td valign="top" width="33%">
 			<div align="center">
-				<h6><b>BlockChain Tech</b></h6>
+				<h6><b>BlockChain</b></h6>
 			</div>
 			<div align="center">
 			    <img style="margin: 10px" alt="Bitcoin Image" height="50" src="./assets/bitcoin.png" />
